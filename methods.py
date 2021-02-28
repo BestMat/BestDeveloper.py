@@ -1,0 +1,9 @@
+impot json
+def length(s):
+  return len(s)
+def curlyFormat(a,t):
+  return t.format(a)
+def JSONstringify(s)
+ return json.dumps(s)
+def JSONparse(s):
+  return json.loads(s)
